@@ -1,2 +1,2 @@
 ## Chú ý:
-Lớp trưởng in file chứa mã lệnh cho buổi học tương ứng
+Lớp trưởng in file `pdf` chứa mã lệnh cho buổi học tương ứng
