@@ -178,7 +178,7 @@ Kế hoạch đánh giá tương ứng với CĐR
     <td>1</td>
     <td>BĐG 1</td>
     <td>Buổi 5</td>
-    <td>LO.1, LO.2, LO.3</td>
+    <td>LO.1, LO.2, LO.3, LO.4</td>
     <td>10%</td>
     <td></td>
     <td></td>
@@ -188,7 +188,7 @@ Kế hoạch đánh giá tương ứng với CĐR
     <td>2</td>
     <td>BĐG 2</td>
     <td>Buổi 10</td>
-    <td>LO.4, LO.5, LO.6</td>
+    <td>LO.5, LO.6, LO.7</td>
     <td>10%</td>
     <td></td>
     <td></td>
@@ -241,15 +241,21 @@ _(Các nội dung giảng dạy theo buổi học, thể hiện sự liên quan 
 
 <table align="center">
   <tr>
-    <th><pre>Buổi học
-(3 tiết) [1]
+    <th><pre>Buổi
+học
+(3t)
+[1]
     </pre></th>
-    <th>Nội dung [2]</th>
+    <th>     Nội dung [2]     </th>
     <th><pre>CĐR
-HP [3]</pre></th>
-    <th>Hoạt động dạy và học [4]</th>
-    <th><pre>Bài đánh
-giá [5]</pre></th>
+HP
+[3]</pre></th>
+    <th><pre>Hoạt động
+dạy và học [4]<pre></th>
+    <th><pre>Bài
+đánh
+giá
+[5]</pre></th>
   </tr>
   
   <tr>
@@ -271,7 +277,6 @@ giá [5]</pre></th>
         (1) <i>Ở lớp:</i> nghe giảng, ghi bài;
         (2) <i>Ở nhà:</i> làm bài tập, thực hành phần mềm theo chỉ định.
       </li>
-      <li><i>Yêu cầu riêng (ở nhà):</i> cài phần mềm tính toán và lập trình theo chỉ định.</li>
     </td>
     <td>BĐG 1</td>
   </tr>
@@ -295,7 +300,330 @@ giá [5]</pre></th>
     <td></td>
     <td>BĐG 1</td>
   </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 3.</b> Nội suy và xấp xỉ bằng đa thức</p>
+      <ol>
+        <li>Đa thức nội suy và đa thức Lagrange</li>
+        <li>Xấp xỉ số liệu và phương pháp Neville</li>
+        <li>Sai phân chia</li>
+        <li>Nội suy Hermite</li>
+        <li>Nội suy Newton</li>
+        <li>Nội suy spline bậc ba</li>
+        <li>Đường cong tham số</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.3</td>
+    <td></td>
+    <td>BĐG 1</td>
+  </tr>
+      
+  <tr>
+    <td>4</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 4.</b> Tính gần đúng đạo hàm và tích phân</p>
+      <ol>
+        <li>Tính gần đúng đạo hàm</li>
+        <li>Ngoại suy Richardson</li>
+        <li>Tính gần đúng tích phân</li>
+        <li>Tích phân Romberg</li>
+        <li>Phương pháp cầu phương thích ứng</li>
+        <li>Cầu phương Gauss</li>
+        <li>Tích phân bội</li>
+        <li>Tích phân suy rộng</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.4</td>
+    <td></td>
+    <td>BĐG 1 </td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>
+      <li><b>Thực hành phòng máy</b></li>
+      <li><b>Kiểm tra: bài số 1 / 3</b></li>
+    </td>
+    <td>LO.1-4</td>
+    <td></td>
+    <td></td>
+  </tr>
+      
+  <tr>
+    <td>6, 7</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 5.</b> Bài toán giá trị ban đầu của phương trình vi phân</p>
+      <ol>
+        <li>Lý thuyết cơ bản về bài toán giá trị ban đầu</li>
+        <li>Phương pháp Pircard</li>
+        <li>Phương pháp chuỗi Taylor</li>
+        <li>Phương pháp Euler</li>
+        <li>Phương pháp Taylor bậc cao</li>
+        <li>Phương pháp Runge - Kutta</li>
+        <li>Điều khiển sai số và phương pháp Runge - Kutta - Fehlberg</li>
+        <li>Phương pháp đa bước</li>
+        <li>Phương pháp đa bước với bước nhảy biến thiên</li>
+        <li>Phương pháp ngoại suy</li>
+        <li>Phương pháp cấp cao và hệ phương trình vi phân</li>
+        <li>Sự ổn định</li>
+        <li>Phương trình vi phân cứng</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.5</td>
+    <td></td>
+    <td>BĐG 2</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 6.</b> Phương pháp trực tiếp giải hệ phương trình tuyến tính</p>
+      <ol>
+        <li>Hệ phương trình tuyến tính</li>
+        <li>Chiến thuật chốt</li>
+        <li>Đại số tuyến tính và ma trận nghịch đảo</li>
+        <li>Định thức của ma trận</li>
+        <li>Phân tích ma trận</li>
+        <li>Các dạng ma trận đặc biệt</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.6</td>
+    <td></td>
+    <td>BĐG 2</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 7.</b> Kỹ thuật lặp trong đại số tuyến tính</p>
+      <ol>
+        <li>Chuẩn của véctơ và ma trận</li>
+        <li>Giá trị riêng và véctơ riêng</li>
+        <li>Giá trị riêng và véctơ riêng</li>
+        <li>Kỹ thuật lặp Jacobi và Gauss - Seidel</li>
+        <li>Ma trận nghịch đảo</li>
+        <li>Kỹ thuật giảm dư giải hệ tuyến tính</li>
+        <li>Giới hạn sai số và tinh chỉnh phép lặp</li>
+        <li>Phương pháp gradient liên hợp</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.7</td>
+    <td></td>
+    <td>BĐG 2</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>
+      <li><b>Thực hành phòng máy</b></li>
+      <li><b>Kiểm tra: bài số 2 / 3</b></li>
+    </td>
+    <td>LO.5-7</td>
+    <td></td>
+    <td></td>
+  </tr>
+      
+  <tr>
+    <td>11</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 8.</b> Lý thuyết xấp xỉ</p>
+      <ol>
+        <li>Xấp xỉ bình phương nhỏ nhất</li>
+        <li>Đa thức trực giao và xấp xỉ bình phương nhỏ nhất</li>
+        <li>Đa thức Chebyshev và [Economization] chuỗi lũy thừa</li>
+        <li>Xấp xỉ hàm hửu tỷ</li>
+        <li>Xấp xỉ đa thức lượng giác</li>
+        <li>Biến đổi Fourier nhanh</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.8</td>
+    <td></td>
+    <td>BĐG 3</td>
+  </tr>
+
+  <tr>
+    <td><b>Tự đọc</b></td>
+    <td>
+      <b>Chương 9.</b> Xấp xỉ giá trị riêng
+      <ol>
+        <li>Đại số tuyến tính và giá trị riêng</li>
+        <li>Ma trận trực giao và biến đổi đồng dạng</li>
+        <li>Phương pháp lũy thừa</li>
+        <li>Phương pháp Householder</li>
+        <li>Thuật toán QR</li>
+        <li>Phân tích giá trị kỳ dị</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.9</td>
+    <td></td>
+    <td></td>
+  </tr>
+      
+  <tr>
+    <td>12</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 10.</b> Giải gần đúng hệ phương trình phi tuyến</p>
+      <ol>
+        <li>Điểm bất động của hàm nhiều biến</li>
+        <li>Phương pháp Newton</li>
+        <li>Phương pháp độ dốc nhất</li>
+        <li>Đồng luân và các phương pháp mở rộng</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.10</td>
+    <td></td>
+    <td>BĐG 3</td>
+  </tr>
+      
+  <tr>
+    <td>Tự đọc</td>
+    <td>
+      <b>Chương 11.</b> Bài toán giá trị biên của phương trình vi phân
+      <ol>
+        <li>Phương pháp bắn tuyến tính</li>
+        <li>Phương pháp bắn cho bài toán phi tuyến</li>
+        <li>Phương pháp sai phân hữu hạn cho bài toán tuyến tính</li>
+        <li>Phương pháp sai phân hữu hạn cho bài toán phi tuyến</li>
+        <li>Phương pháp Raylei-Ritz</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.11</td>
+    <td></td>
+    <td></td>
+  </tr>
+      
+  <tr>
+    <td>13</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 12.</b> Nghiệm số của phương trình đạo hàm riêng</p>
+      <ol>
+        <li>Phương trình đạo hàm riêng Elliptic</li>
+        <li>Phương trình đạo hàm riêng Parabolic</li>
+        <li>Phương trình đạo hàm riêng Hyperbolic</li>
+        <li>Giới thiệu về phương pháp phần tử hữu hạn</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.12</td>
+    <td></td>
+    <td>BĐG 3</td>
+  </tr>
+      
+  <tr>
+    <td>14</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 13.</b> Các phương pháp tối ưu</p>
+      <ol>
+        <li>Giới thiệu</li>
+        <li>Bài toán quy hoạch tuyến tính</li>
+        <li>Tối ưu hàm một biến</li>
+        <li>Phương pháp gradient liên hợp</li>
+        <li>Phương pháp gradient co giãn liên hợp Moller</li>
+        <li>Phương pháp gradient liên hợp giải hệ tuyến tính</li>
+        <li>Các thuật toán di truyền</li>
+        <li>Thuật toán di truyền liên tục</li>
+        <li>Mô hình Annealing</li>
+        <li>Tối ưu phi tuyến có ràng buộc</li>
+        <li><Kỹ thuật cực tiểu hóa không ràng buộc liên tiếp/li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.13</td>
+    <td></td>
+    <td>BĐG 3</td>
+  </tr>
+      
+  <tr>
+    <td>15</td>
+    <td>
+      <li><b>Thực hành phòng máy</b></li>
+      <li><b>Kiểm tra: bài số 3 / 3</b></li>
+    </td>
+    <td>LO.8, 10, 12, 13</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
+_[1]: Thông tin về tuần / buổi học. [2]: Liệt kê nội dung giảng dạy theo chương, mục. [3]: Liệt kê CĐR cụ thể của buổi học đó [4]: Liệt kê các hoạt động dạy và học (ở lớp, ở nhà), bao gồm đọc trước tài liệu (nếu có yêu cầu). [5]: Liệt kê các bài đánh giá liên quan_.
+  
 
+**Thực hành / đồ án**: Có **ba** buổi thực hành, xếp vào buổi học **5**, **10**, và **15**.
+<table align="center">
+  <tr>
+    <th>Tuần / Buổi học [1]</th>
+    <th>Nội dung [2]</th>
+    <th>CĐR buổi học [3]</th>
+    <th>Hoạt động dạy và học [4]</th>
+    <th>Bài đánh giá [5]</th>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>Thực hành chương 1-4</td>
+    <td>LO.1-4</td>
+    <td>
+      <li><i>Giảng viên:</i> đã giao cho sinh viên hướng dẫn thực hành</li>
+      <li ><i>Sinh viên:</i> thực hiện theo hướng dẫn.</li>
+    </td>
+    <td>Điền đáp số</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>Thực hành chương 5, 6, 7</td>
+    <td>LO.5-7</td>
+    <td></td>
+    <td>Điền đáp số</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Thực hành chương 8, 10, 12, 13</td>
+    <td>LO.8, 10, 12, 13</td>
+    <td></td>
+    <td>Điền đáp số</td>
+  </tr>
+</table>
+  
+_[1]: Thông tin về tuần/ buổi học. [2]: Liệt kê nội dung giảng dạy theo chương, mục. [3]: Liệt kê CĐR cụ thể của buổi học đó [4]: Liệt kê các hoạt động dạy và học (ở lớp, ở nhà), bao gồm đọc trước tài liệu (nếu có yêu cầu). [5]: Liệt kê các bài đánh giá liên quan_.
+  
 
+## 8. Quy định riêng của học phần
+(Các quy định của học phần (nếu có), thí dụ: sinh viên không nộp bài tập và báo cáo đúng thời hạn, được coi như không nộp bài; sinh viên vắng 2 buổi thực hành trở lên, không được phép dự thi cuối kỳ...)
+  
+Các bài tập không nộp đúng hạn coi như không nộp bài.
+  
+Sinh viên phải hoàn thành bài báo cáo nhóm mới được thi cuối kỳ.
+  
+Sinh viên phải hoàn thành và bảo vệ đồ án ở mức đạt mới được thi cuối kỳ (nếu học phần và đồ án không tách riêng).
+  
+Sinh viên phải tham gia đi thực tế/ tham gia đầy đủ các buổi thực hành mới được thi cuối kỳ.
+
+  
+## 9. Đơn vị phụ trách học phần
+  * _Khoa/Bộ môn_: Bộ môn Toán ứng dụng
+  * _Địa chỉ và email liên hệ_: thinhnd@huce.edu.vn
+  * _Giảng viên giảng dạy_: giảng viên bộ môn Toán ứng dụng
+  * _Ngày ban hành / cập nhật_: 12/01/2022
+  
