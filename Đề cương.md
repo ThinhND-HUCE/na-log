@@ -1,7 +1,7 @@
 # ĐỀ CƯƠNG HỌC PHẦN: TOÁN KINH TẾ
 **(Economical Mathematics, Numerical Analysis, Numerical Methods, Computing Mathematics)**
 
-## Thông tin tổng quát và điều kiện đăng ký học phần
+## 1. Thông tin tổng quát và điều kiện đăng ký học phần
   * _Tên học phần_: **Toán kinh tế**
   * _Mã số học phần_:
   * _Thuộc khối kiến thức kỹ năng_: Kiến thức cơ sở ngành
@@ -11,11 +11,11 @@
     + _Số giờ chuẩn bị / tự học của sinh viên_: **90**
   * _Học phần tiên quyết_: **Đại số**, **Giải tích 1**, **Giải tích 2**
 
-## Mô tả học phần
+## 2. Mô tả học phần
 Nối tiếp các học phần Đại số, Giải tích 1 và Giải tích 2, sinh viên tiếp cận các kỹ thuật tính gần đúng như giải gần đúng **phương trình 
 đại số và siêu việt**; giải gần đúng **hệ phương trình tuyến tính**; các kỹ thuật **nội suy** và **xấp xỉ hàm**, và ứng dụng trong tính gần đúng **đạo hàm**, **tích phân**, cũng như giải gần đúng **phương trình vi phân** và **phương trình đạo hàm riêng** – một lĩnh vực có nhiều ứng dụng trong khoa học, kỹ thuật và kinh tế. Cuối cùng, sinh viên tiếp cận với một số phương pháp tối ưu.
 
-## Nguồn học liệu
+## 3. Nguồn học liệu
 1) **Giáo trình**:
   * Richard L. Burden, J. Douglas Faires, Annette M. Burden (2016). _Numerical Analysis_. 10ed. 918p. Cengage Learning.
   * G.R. Lindfield, J.E.T. Penny (2012), _Numerical Methods using MATLAB_. 3ed, 553p. Elsevier.
@@ -31,13 +31,15 @@ Nối tiếp các học phần Đại số, Giải tích 1 và Giải tích 2, s
   * Wolfram (2021 / 12.3). _Mathematica_.
 
 
-## Mục tiêu học phần
+## 4. Mục tiêu học phần
 _(Các mục tiêu cụ thể của học phần cần nêu rõ học phần sẽ cung cấp cho sinh viên kiến thức và kỹ năng gì, thể hiện sự liên quan với các chủ đề CĐR (X.x.x) của CTĐT được phân nhiệm cho HP, tối đa 5 mục tiêu)_.
-<table>
+<table align="center">
   <tr>
-    <th>Mục tiêu (Gx) [1]</th>
+    <th><pre>Mục tiêu
+(Gx) [1]</pre></th>
     <th>Mô tả mục tiêu [2]</th>
-    <th>Các CĐR của CTĐT [3]</th>
+    <th><pre>Các CĐR
+của CTĐT [3]</pre></th>
   </tr>
   
   <tr>
@@ -68,12 +70,14 @@ _(Các mục tiêu cụ thể của học phần cần nêu rõ học phần s�
 _[1]: Ký hiệu mục tiêu của học phần. [2]: Mô tả mục tiêu bao gồm các động từ chủ động, các chủ đề CĐR (X.x.x) và bối cảnh áp dụng tổng quát. [3]: Ký hiệu CĐR của CTĐT đã được xác định trong mục tiêu đào tạo và chuẩn đầu ra của CTĐT, phần chuẩn đầu ra của CTĐT_.
 
 
-## Chuẩn đầu ra học phần
+## 5. Chuẩn đầu ra học phần
 <table align="center">
   <tr>
-    <th>CĐR (LO.x) [1]</th>
+    <th><pre>CĐR
+(LO.x) [1]</pre></th>
     <th>Mô tả CĐR [2]</th>
-    <th>Các CĐR của CTĐT [3]</th>
+    <th><pre>Các CĐR
+của CTĐT [3]</pre></th>
   </tr>
   
   <tr>
@@ -150,3 +154,148 @@ _[1]: Ký hiệu mục tiêu của học phần. [2]: Mô tả mục tiêu bao g
 </table>
 
 _[1]: Ký hiệu CĐR của học phần. [2]: Mô tả CĐR, bao gồm các động từ chủ động mô tả năng lực của sinh viên (theo nội dung CĐR) và bối cảnh áp dụng cụ thể. [3]: Ký hiệu CĐR của CTĐT đã được xác định trong mục tiêu đào tạo và chuẩn đầu ra của CTĐT, phần chuẩn đầu ra của CTĐT. [4]: Các CĐR theo đề cương CDIO_.
+
+## 6. Đánh giá học phần
+Kế hoạch đánh giá tương ứng với CĐR
+<table align="center">
+  <tr>
+    <th rowspan="2">STT</th>
+    <th rowspan="2">Bài đánh giá</th>
+    <th rowspan="2">Tuần / Buổi</th>
+    <th rowspan="2"><pre>CĐR học phần
+(LO.x) [1]</pre></th>
+    <th rowspan="2"><pre>Tỷ lệ (%)
+[2]</pre></th>
+    <th colspan="2">Thành phần đánh giá</th>
+  </tr>
+  
+  <tr>
+    <th>Quá trình [3]</th>
+    <th>Kết thúc [4]</th>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>BĐG 1</td>
+    <td>Buổi 5</td>
+    <td>LO.1, LO.2, LO.3</td>
+    <td>10%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>BĐG 2</td>
+    <td>Buổi 10</td>
+    <td>LO.4, LO.5, LO.6</td>
+    <td>10%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>BĐG 3</td>
+    <td>Buổi 15</td>
+    <td>LO.8, LO.10, LO.12, LO.13</td>
+    <td>10%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>Thi kết thúc HP</td>
+    <td></td>
+    <td></td>
+    <td>70%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td><b>Tổng</b></td>
+    <td></td>
+    <td></td>
+    <td><b>100%</b></td>
+    <td><b>30%</b></td>
+    <td><b>70%</b></td>
+  </tr>
+</table>
+
+_[1]: Các CĐR được đánh giá. [2]: Trọng số điểm của BĐG trên điểm đánh giá tổng hợp HP. [3]: Trọng số điểm quá trình của BĐG trên điểm đánh giá tổng hợp của HP [4]: Trọng số điểm kết thúc của BĐG trên điểm đánh giá tổng hợp của HP_.
+
+
+## 7. Kế hoạch giảng dạy
+_(Các nội dung giảng dạy theo buổi học, thể hiện sự liên quan với các CĐR của học phần, các hoạt động dạy và học (ở lớp, ở nhà), và các bài đánh giá của học phần)_.
+
+**Lưu ý**:
+  * Vì số tiết có hạn, trong khi nội dung môn học rất phong phú, giảng viên chỉ dạy sơ lược các nội dung, nêu [chứng minh nếu có thời gian] công thức, có ví dụ mẫu, và chỉ nên tính bằng phần mềm.
+  * Nếu các giảng viên dạy không hết chương trình (chắc chắn) thì trước khi thi cần thống nhất nội dung thi.
+  * Tuân thủ tuyệt đối mối chương chỉ diễn ra trong 01 buổi học. Dạy không hết chương thì thôi.
+  * Hình thức thi: trắc nghiệm thông minh [điền đáp án tính được], 90 phút.
+  * Phần lý thuyết tô vàng sinh viên tự đọc
+
+
+<table align="center">
+  <tr>
+    <th><pre>Buổi học
+(3 tiết) [1]
+    </pre></th>
+    <th>Nội dung [2]</th>
+    <th><pre>CĐR
+HP [3]</pre></th>
+    <th>Hoạt động dạy và học [4]</th>
+    <th><pre>Bài đánh
+giá [5]</pre></th>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>
+      <b>Chương 1.</b> Chuẩn bị
+      <ol>
+        <li>Ôn tập về phép tính</li>
+        <li>Sai số làm tròn và số học máy tính</li>
+        <li>Thuật toán và sự hội tụ</li>
+        <li>Công cụ tính toán và lập trình</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.1</td>
+    <td>Trong mỗi buổi học
+      <li><i>Giảng viên:</i> giảng trên bảng viết, trình bày thao tác tính toán, lập trình trực tiếp trên máy tính (sinh viên in sẵn Code để theo dõi)</li>
+      <li><i>Sinh viên:</i>
+        (1) <i>Ở lớp:</i> nghe giảng, ghi bài;
+        (2) <i>Ở nhà:</i> làm bài tập, thực hành phần mềm theo chỉ định.
+      </li>
+      <li><i>Yêu cầu riêng (ở nhà):</i> cài phần mềm tính toán và lập trình theo chỉ định.</li>
+    </td>
+    <td>BĐG 1</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>
+      <b>Chữa bài tập</b>
+      <p><b>Chương 2.</b> Giải phương trình một biến</p>
+      <ol>
+        <li>Phương pháp chia đôi</li>
+        <li>Phương pháp Newton</li>
+        <li>Lặp điểm bất động</li>
+        <li>Phân tích sai số của các phương pháp lặp</li>
+        <li>Tăng tốc độ hội tụ</li>
+        <li>Nghiệm của đa thức và phương pháp Muller</li>
+      </ol>
+      <b>Bài tập</b>
+    </td>
+    <td>LO.2</td>
+    <td></td>
+    <td>BĐG 1</td>
+  </tr>
+</table>
+
+
+
