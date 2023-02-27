@@ -8,11 +8,8 @@ Cho bảng giá trị (hoặc biểu thức) của hàm số $y = f(x)$. Tìm đ
 * Lagrange
 * Newton tiến / lùi
 
-### Tính gần đúng đạo hàm
-Cho bảng giá trị hàm số $y = f(x)$. 
-* Bằng đa thức nội suy bậc hai (công thức ba điểm với lưới đều), tính gần đúng đạo $f'(x)$, $f''(x)$ tại các điểm lưới
-* Tính gần đúng $\displaystyle \int_a^b {f\left( x \right)dx} $
+### Tính gần đúng đạo hàm, tích phân
+* Cho bảng giá trị hàm số $y = f(x)$. Bằng đa thức nội suy bậc hai (công thức ba điểm với lưới đều), tính gần đúng $f'(x)$, $f''(x)$ tại các điểm lưới
+* Tính gần đúng $\displaystyle \int_a^b {f\left( x \right)dx}$ bằng phương pháp hình thang / parabol với số khoảng chia cho trước, và đánh giá sai số.
 
-### Tính gần đúng tích phân
-Cho bảng giá trị (hoặc biểu thức) của hàm số
 
