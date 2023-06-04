@@ -1,5 +1,5 @@
 # Nội dung bài kiểm tra số 3 / 3
-**Yêu cầu:** Trình bày tự luận vào bài trên chính đề kiểm tra được phát
+**Yêu cầu:** Trình bày tự luận trên chính đề kiểm tra được phát
 ## Giải hệ phương trình
 Đề ra một trong hai dạng
 * **Phương pháp Newton:** tìm nghiệm gần đúng ${x^{\left( k \right)}}$ của hệ phương trình $f(x) = 0$ tại lân cận điểm ${x^{\left( 0 \right)}} \in {\Bbb R^n}$ và đánh giá ${\left\| {{x^{\left( k \right)}} - {x^{\left( {k - 1} \right)}}} \right\|_\infty }$ sau ba bước lặp.
