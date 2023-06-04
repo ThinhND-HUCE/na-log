@@ -4,7 +4,7 @@
   
 # Chú ý
   * Trên hệ điều hành Windows, dùng phần mềm `WinDjView` để đọc file đuổi `djvu`
-  * **Không in** bài giảng tiếng Việt của giảng viên
+  * **Không in / share** bài giảng tiếng Việt của giảng viên
   * Các chương được đánh số theo giáo trình [1] để sinh viên dễ tra cứu
 
 
