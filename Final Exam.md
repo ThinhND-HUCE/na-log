@@ -4,4 +4,4 @@
   + Làm tự luận trên giấy thi (sinh viên tự chuẩn bị)
   + Thời gian **90** phút
   + Làm trên máy tính tại phòng máy
-  + **Chỉ dùng tài liệu là vở chép tay và 20 trang mã lệnh**
+  + Chỉ dùng tài liệu là **vở chép tay** và tờ **mã lệnh**
