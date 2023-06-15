@@ -4,4 +4,4 @@ _Trả lời_: (1) Làm tự luận trên giấy thi (sinh viên tự chuẩn b�
 
 * **Phương pháp đạt kết quả thi / kiểm tra tốt?**
 
-_Trả lời_: (1) đi học đầy đủ, đúng giờ; (2) làm bài giảng viên giao đúng tiến độ; (3) mỗi ngày luyện code nửa tiếng
+_Trả lời_: (1) đi học đầy đủ, đúng giờ; (2) ghi bài đầy đủ; (3) làm bài giảng viên giao đúng tiến độ; (4) mỗi ngày luyện code nửa tiếng
