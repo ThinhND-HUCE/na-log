@@ -1,4 +1,3 @@
-**6/5/23 (Final Version 1): Đã cập nhật đầy đủ bài giảng (có ví dụ chi tiết) tất cả các chương:** sinh viên tải lại đè lên các file cũ
 ## Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
