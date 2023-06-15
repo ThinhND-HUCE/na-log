@@ -3,5 +3,5 @@
 * Hình thức:
   + Làm tự luận trên giấy thi (sinh viên tự chuẩn bị)
   + Thời gian **90** phút
-  + làm trên máy tính tại phòng máy
+  + Llàm trên máy tính tại phòng máy
   + **Chỉ dùng tài liệu là vở chép tay và 20 trang mã lệnh**
