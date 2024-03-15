@@ -1,4 +1,8 @@
-## Chú ý:
+# Cập nhật:
+* 15/3/2024: Thêm link dự phòng MATLAB cho Windows trên OneDrive
+
+
+# Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
    * Link tải **MATLAB**
