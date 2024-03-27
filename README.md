@@ -1,5 +1,5 @@
 # Thông báo:
-Lớp nghỉ ngày hôm nay tiết 10 ngày 19/3
+Hôm nay thứ 4 ngày 27/3, lớp LGT3 kiểm tra vào tiết 6
 # Cập nhật:
 * 15/3/2024: Thêm link dự phòng MATLAB cho Windows trên OneDrive
 
