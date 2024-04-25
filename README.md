@@ -1,8 +1,5 @@
 # Thông báo:
-Hôm nay thứ 4 ngày 27/3, lớp LGT3 kiểm tra vào tiết 6
-# Cập nhật:
-* 15/3/2024: Thêm link dự phòng MATLAB cho Windows trên OneDrive
-
+Thứ 5 ngày 25/4: lớp học lý thuyết, buổi kiểm tra được lùi lại vào thứ 5 ngày 2/5
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
