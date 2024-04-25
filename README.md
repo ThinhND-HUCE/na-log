@@ -1,5 +1,5 @@
 # Thông báo:
-Thứ 5 ngày 25/4: lớp học lý thuyết, buổi kiểm tra được lùi lại vào thứ 5 ngày 2/5
+Thứ 6 ngày 26/4: lớp học lý thuyết + kiểm tra bài số 2
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
