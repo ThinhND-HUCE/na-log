@@ -1,5 +1,5 @@
 # Thông báo:
-Lớp LGT1, 2 học bù vào thứ 2 ngày 13/5/2024, tiết 4-6 + 7-9 tại P510H1
+Lớp 67LGT1, 2 học bù vào thứ 2 ngày 13/5/2024, tiết 4-6 + 7-9 tại P510H1
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
