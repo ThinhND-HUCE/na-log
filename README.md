@@ -1,5 +1,7 @@
 # Thông báo:
-Lớp 67LGT1, 2 học bù vào thứ 2 ngày 13/5/2024, tiết 4-6 + 7-9 tại P510H1
+Đã có tài liệu cho phép sử dụng khi thi
+  * Sinh viên in ra giấy A4, in 2 mặt, mỗi người 1 bản gồm 11 tờ A4
+  * Không được ghi thêm gì khác vào tài liệu này. Nếu vi phạm, sinh viên sẽ bị đình chỉ thi và bị điểm F môn này.
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
