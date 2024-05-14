@@ -1,5 +1,5 @@
 * Nội dung đề thi: 
-  + **gồm 5 / 6 câu thuộc các dạng của 3 bài kiểm tra**, mỗi câu 2 điểm
+  + **gồm 5 câu thuộc các dạng của 3 bài kiểm tra**, mỗi câu 2 điểm
   + 1 câu về kỹ năng lập trình MATLAB: 1đ
 
 * Hình thức:
