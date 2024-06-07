@@ -1,7 +1,8 @@
 # Thông báo:
-Đã có tài liệu cho phép sử dụng khi thi
-  * Sinh viên in ra giấy A4, in 2 mặt, mỗi người 1 bản gồm 11 tờ A4
-  * Không được ghi thêm gì khác vào tài liệu này. Nếu vi phạm, sinh viên sẽ bị đình chỉ thi và bị điểm F môn này.
+* **Lịch thi lớp DQT41**:
+  + _Thời gian_: thứ 4 (ngày 03/7/2024), tiết 1
+  + _Địa điểm_: phòng máy 2, tầng 4 nhà Thí nghiệm
+
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
