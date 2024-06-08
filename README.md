@@ -1,4 +1,6 @@
 # Thông báo:
+* **LOP37**: làm bài tập trong file `Bai tap.pdf` **mới**, từ bài 28 - 45 (theo cách đánh số mới). Trình bày vào vở bài tập theo đúng thứ tự, bài chưa làm được thì để trống 1 trang giấy.
+* 
 * **Lịch thi lớp DQT41**:
   + _Thời gian_: thứ 4 (ngày 03/7/2024), tiết 1
   + _Địa điểm_: phòng máy 2, tầng 4 nhà Thí nghiệm
