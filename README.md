@@ -1,6 +1,6 @@
 # Thông báo:
-* **LOP37**: buổi học thứ 2 ngày 11/6/2024
-  + Làm bài tập trong file `Bai tap.pdf` **mới**, từ bài 28 - 45 (theo cách đánh số mới)
+* **LOP37**: thứ 4 ngày 12/6/2024
+  + Làm bài tập trong file `Bai tap.pdf` **mới**, từ bài 43 - 60 (theo cách đánh số mới)
   + Trình bày vào vở bài tập theo đúng thứ tự, bài chưa làm được thì để trống 1 trang giấy
 
 
