@@ -1,6 +1,6 @@
 # Thông báo:
-* **LOP37**: thứ 4 ngày 14/6/2024
-  + Làm bài tập trong file `Bai tap.pdf` **mới**, từ bài 61 - 70 (theo cách đánh số mới, đã cập nhật thêm xấp xỉ ban đầu và số bước lặp)
+* **LOP37**: thứ 6 ngày 21/6/2024
+  + Làm bài tập trong file `Bai tap.pdf` **mới**, từ bài 79 - 89 (theo cách đánh số mới)
   + Trình bày vào vở bài tập theo đúng thứ tự, bài chưa làm được thì để trống 1 trang giấy
 
 
