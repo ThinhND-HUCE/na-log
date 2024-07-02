@@ -1,8 +1,6 @@
-# Thông báo:
-* **LOP37**: thứ 6 ngày 21/6/2024
-  + Làm bài tập trong file `Bai tap.pdf` **mới**, từ bài 79 - 90 (theo cách đánh số mới)
-  + Trình bày vào vở bài tập theo đúng thứ tự, bài chưa làm được thì để trống 1 trang giấy
-  + Cả lớp bị trừ 1 DQT do tiết 1 vắng toàn bộ (lịch từ tiết 1-6)
+# Thông báo: về việc thi học kỳ 3 của lớp LOP47, DQT41
+* Tài liệu sử dụng: sinh viên vào thư mục `Code` tìm file ứng với MSSV của mình rồi in 2 mặt ra giấy A4
+* Sinh viên đọc kỹ file `Final Exam.md` để biết đầy đủ thông tin
 
 
 * **Lịch thi lớp DQT41**:
