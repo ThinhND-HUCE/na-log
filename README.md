@@ -5,7 +5,7 @@
 
 * **Lịch thi lớp DQT41**:
   + _Thời gian_: thứ 4 (ngày 03/7/2024), tiết 2 (7h30)
-  + _Địa điểm_: phòng máy 2, tầng 4 nhà Thí nghiệm
+  + _Địa điểm_: phòng máy 1, tầng 4 nhà Thí nghiệm
   + _Lưu ý_: sinh viên đọc kỹ file `Final Exam.md` để biết thêm thông tin
 
 
