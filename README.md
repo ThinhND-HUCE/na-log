@@ -1,6 +1,7 @@
-# Thông báo: về việc thi học kỳ 3 của lớp LOP47, DQT41
+# Thông báo: về việc thi học kỳ 3 của lớp LOP37, DQT41
 * Tài liệu sử dụng: sinh viên vào thư mục `Code` tìm file ứng với MSSV của mình rồi in 2 mặt ra giấy A4 (Lưu ý: đêm qua mới cập nhật file có watermark, sinh viên đã in bản trước đó thì không cần in bản này)
 * Sinh viên đọc kỹ file `Final Exam.md` để biết đầy đủ thông tin
+* Phòng thi đổi sang phòng máy 1
 
 
 * **Lịch thi lớp DQT41**:
