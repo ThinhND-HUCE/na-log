@@ -1,5 +1,5 @@
 # Thông báo:
-* LOPNV33 kiểm tra bài số 2 vào ngày 22/10
+Chưa có thông báo
 
 
 # Chú ý:
