@@ -1,6 +1,6 @@
 # Thông báo: Về kế hoạch thi lớp LOPNV33
-  * **Thời gian**: chưa xác định
-  * **Địa điểm:** phòng học bình thường
+  * **Thời gian**: tiết 13 thứ 3 ngày 17/12/2024 (đã chốt)
+  * **Địa điểm:** phòng học lý thuyết (thông báo sau)
   * **Hình thức**: tự luận như mọi khi. Sinh viên tự trang bị máy
   * **Lưu ý**: sinh viên vẫn dùng tờ mã lệnh như bình thường. Trên máy không được lưu sẵn mã lệnh, sinh viên phải gõ mới hoàn toàn. Nếu cán bộ coi thi phát hiện sinh viên có file liên quan đến bài học trên máy, sinh viên sẽ bị đánh **vi phạm quy chế** và được cho 0 điểm.
 
