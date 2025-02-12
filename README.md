@@ -10,7 +10,7 @@
   * Sinh viên lấy tài liệu ôn tập, cài MATLAB trên máy cá nhân.
   * **Hình thức thi:** tự luận, không dùng tài liệu, dùng MATLAB trên máy cá nhân (không được dùng file có sẵn)
   * **Thời gian**: chưa rõ
-  * **Địa điểm:** Bộ môn Toán ứng dụng 409H1
+  * **Địa điểm:** Bộ môn Toán ứng dụng 409A1
   
 
 
