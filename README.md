@@ -7,8 +7,8 @@
     4. (2đ) Xấp xỉ hàm: xấp xỉ y bởi đa thức bậc hai theo x
     5. (2đ) Tối ưu hàm 2 biến: phương pháp Newton
     6. (1đ) Giải bài toán quy hoạch tuyến tính bằng MATLAB: Liệt kê các đối số đầu vào của lệnh giải
-  * Sinh viên lớp lấy tài liệu ôn tập, cài MATLAB trên máy cá nhân.
-  * **Hình thức thi**: tự luận, không dùng tài liệu, dùng MATLAB trên máy cá nhân (không được dùng file có sẵn)
+  * Sinh viên lấy tài liệu ôn tập, cài MATLAB trên máy cá nhân.
+  * **Hình thức thi:** tự luận, không dùng tài liệu, dùng MATLAB trên máy cá nhân (không được dùng file có sẵn)
   * **Thời gian**: chưa rõ
   * **Địa điểm:** Bộ môn Toán ứng dụng 409H1
   
