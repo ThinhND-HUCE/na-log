@@ -1,9 +1,17 @@
-# Thông báo: Về kế hoạch thi lớp LOPNV33
-  * **Thời gian**: tiết 13 thứ 3 ngày 17/12/2024 (đã chốt)
-  * **Địa điểm:** 206H1 (đã xác nhận)
-  * **Hình thức**: tự luận như mọi khi. Sinh viên tự trang bị máy
-  * **Lưu ý**: sinh viên vẫn dùng tờ mã lệnh như bình thường. Trên máy không được lưu sẵn mã lệnh, sinh viên phải gõ mới hoàn toàn. Nếu cán bộ coi thi phát hiện sinh viên có file liên quan đến bài học trên máy, sinh viên sẽ bị đánh **vi phạm quy chế** và được cho 0 điểm.
-
+# Thông báo: 
+## Lớp DQT300.67
+  * Dạng đề thi
+    1. (2đ) Giải phương trình một biến: phương pháp Newton
+    2. (2đ) Nội suy: phương pháp Lagrange
+    3. (2đ) Phương trình vi phân: phương pháp Euler
+    4. (2đ) Xấp xỉ hàm: xấp xỉ y bởi đa thức bậc hai theo x
+    5. (2đ) Tối ưu hàm 2 biến: phương pháp Newton
+    6. (1đ) Giải bài toán quy hoạch tuyến tính bằng MATLAB: Liệt kê các đối số đầu vào của lệnh giải
+  * Sinh viên lớp lấy tài liệu ôn tập, cài MATLAB trên máy cá nhân.
+  * **Hình thức thi**: tự luận, không dùng tài liệu, dùng MATLAB trên máy cá nhân (không được dùng file có sẵn)
+  * **Thời gian**: chưa rõ
+  * **Địa điểm:** Bộ môn Toán ứng dụng 409H1
+  
 
 
 # Chú ý:
