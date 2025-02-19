@@ -1,4 +1,4 @@
-# Thông báo: 
+# Thông báo: Buổi học ngày 19/2 của lớp Lớp DQT300.67 bắt đầu từ 17h15
 ## Lớp DQT300.67
   * Dạng đề thi
     1. (2đ) Giải phương trình một biến: phương pháp Newton
